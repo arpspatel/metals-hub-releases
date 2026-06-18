@@ -15,7 +15,7 @@ This guide provides an overview of the core concepts, detailed walkthroughs of e
 *   **Weight Chart Distribution:** Visualizes the portfolio allocation ratio across Gold, Silver, and Platinum dynamically.
 *   **Recent Activity Log:** Feeds chronological cryptographic action tracking (registrations, removals, trade states, escrow updates) in a high-contrast mono log console.
 
-### 🗄️ Inventory Ledger View
+### 🗄️ Inventory View
 *   **Tabular Collection View:** Lists all assets currently held in collection with comprehensive parameters.
 *   **Specimen Inspections:** Clicking on any row opens a deep details slide-out drawer containing serial numbers, assayer details, grading certifications (slab certificates), grade categories, origin country, dimensions, and personal vault notes.
 *   **Search & Filters:** Search instantly across serial keys, mints, and tags. Filter specimens by metal types (Gold, Silver, Platinum), purity classes, and condition tiers.
@@ -24,12 +24,11 @@ This guide provides an overview of the core concepts, detailed walkthroughs of e
 *   **Listing Dispatches:** Select an item from your vault inventory, set its listing price, and dispatch it to sale-pending status.
 *   **Markdown Generator:** Automatically formats a ready-to-copy Markdown post compatible with community marketplaces such as Reddit's **r/Pmsforsale**. Includes tabular item specifics, purities, requested payment sources, verification proofs, and shipping methods automatically.
 
-### ⏳ Pending & Escrow Verification View
+### ⏳ Pending n View
 *   **Transits & Verifications:** Displays items currently undergoing buyer delivery verification or transaction clearance.
-*   **Escrow Release Multi-Sig Controller:** Provides the user with interface logs to register multi-signature carrier approvals (`[CARRIER_OK]`, `[BUYER_OK]`) and type in the cryptographic verification passcode to permanently finalize premium payout records.
 
-### 💰 Sold Items Ledger View
-*   **Archive Ledger:** Keeps standard transaction history records showing exact sold date, buyer entities, realized prices, selling fees, and net profit/loss (P&L) margins.
+### 💰 Sold Items View
+*   **Sold Items Archive:** Keeps standard transaction history records showing exact sold date, buyer entities, realized prices, selling fees, and net profit/loss (P&L) margins.
 *   **Stat Summaries:** Tallies gross sales, historical acquisition costs, total service/broker fees paid out, and total net gains.
 
 ### ➕ Add Asset View
